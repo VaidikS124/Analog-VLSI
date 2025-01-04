@@ -1,0 +1,25 @@
+Circuit: * C:\Users\Vaidik Sharma\Desktop\AnalogADVD.asc
+
+Instance "m6": Length shorter than recommended for a level 1 MOSFET.
+Instance "m15": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 0.0998363 to 0.0998363
+
+Date: Thu Nov  7 15:22:33 2024
+Total elapsed time: 23.782 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 958643
+traniter = 958613
+tranpoints = 399363
+accept = 239619
+rejected = 159745
+matrix size = 17
+fillins = 4
+solver = Normal
+Avg thread counts: 1.0/3.0/1.0/1.0
+Matrix Compiler1: 1.52 KB object code size  0.4/0.3/[0.2]
+Matrix Compiler2: 1.77 KB object code size  0.2/0.3/[0.2]
+
